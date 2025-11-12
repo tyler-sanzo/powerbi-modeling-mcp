@@ -7,16 +7,13 @@ assignees: ''
 ---
 
 ### Version
-Specify the version.
+Specify the version of the MCP server.
+
+### Model used
+LLM model used: Claude Sonnet 4.5, GPT-5,...
 
 ### Description
 A clear and concise description of the bug.
- 
-### Steps to Reproduce
-1. Go to '...'
-2. Click on '...'
-3. Scroll down to '...'
-4. See error
  
 ### Expected Behavior
 What should happen?
@@ -25,4 +22,4 @@ What should happen?
 What actually happened?
  
 ### Additional Context
-Add any other context about the problem here or screenshots.
+Add any other context about the problem: chat session export; screenshots; output window...
